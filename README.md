@@ -2,7 +2,7 @@
 
 Este dataset é disponibilizado gratuitamente pela [Kaggle](https://www.kaggle.com/) e escolhido por mim (Fábio Mori) para aplicar o aprendizado do módulo 5 do curso de pós graduação da [Tera](https://somostera.com/) de [Data Science](https://somostera.com/cursos/data-science-machine-learning).
 
-## 🍽️ Sobre o "Zomato Bangalore Restaurants"
+## 🥼 Sobre os dados
 
 Este dataset fornece uma série de características de pacientes que foram ou não diagnosticados com câncer de pulmão. Estes dados podem ajudar no desenvolvimento de sistemas que ajudam a calcular o risco de um paciente, dado suas características, deseenvolver este tipo de doença. O conhecimento dos riscos pode ser uma ótima ferramenta para prevenções e conscientizações sobre os cuidados com a saúde de cada um.
 
