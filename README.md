@@ -8,7 +8,7 @@ Este dataset fornece uma série de características de pacientes que foram ou n�
 
 ## 🎯 Objetivo do estudo
 
-O objetivo deste trabalho é desenvolver um sistema de calcule as características mais comuns em paciêntes diagnosticados com câncer de pulmão, calculando o percentual de paciêntes diagnosticados para cada característica apresentada no data set. 
+O objetivo deste trabalho é desenvolver um sistema de calcule as características mais comuns em pacientes diagnosticados com câncer de pulmão, calculando o percentual de pacientes diagnosticados para cada característica apresentada no dataset. 
 
 No final do trabalho, o objetivo é aprensetam uma lista ordena com as características com maior percentual presente nos casos diagnosticados, como também uma lista ordenada pela quantidade em que essas características apareceram nestes pacientes.
 
